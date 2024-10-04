@@ -1,0 +1,2 @@
+Prefix plugins/FASTA2Phylip/example/
+Plugin FASTA2Phylip inputfile S12_R1.fasta outputfile S12_R1.phylip
